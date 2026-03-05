@@ -1,0 +1,49 @@
+{
+    "replay": {
+        "id": 21259,
+        "createdDateUtc": "2024-04-05T07:36:44.8433333",
+        "originalFileDate": "2024-04-05T09:32:45",
+        "version": "1.10.1-1"
+    },
+    "session": {
+        "id": 20788,
+        "type": "Hotlap",
+        "seasonType": "9",
+        "trackId": 10,
+        "trackName": "Zolder",
+        "trackShortName": "zolder",
+        "weekendDay": "0",
+        "weatherStartTime": 57600,
+        "weatherIsDynamic": true,
+        "ambientTemperature": "30.26 °C",
+        "sunLightFactor": "0.67",
+        "windSpeed": "3.22 km/h",
+        "windDirection": "",
+        "roadTemperature": "37.55 °C",
+        "cloudLevel": "23.93 %",
+        "rainLevel": "0.00 %"
+    },
+    "car": {
+        "id": 35,
+        "model": "McLaren 720S GT3 EVO",
+        "brand": "McLaren",
+        "imageName": "McLaren_720S_GT3_Evo",
+        "raceNumber": 93,
+        "teamName": "Sky Tempesta Racing"
+    },
+    "driver": {
+        "fullName": "Edward Cheever",
+        "firstName": "Edward",
+        "lastName": "Cheever",
+        "shortName": "CHE",
+        "nationality": 1
+    },
+    "lap": {
+        "id": 1969213,
+        "lapNumber": 1,
+        "lapTime": "01:33.067",
+        "isValid": true,
+        "isValidComputed": true,
+        "replayTime": "23.650"
+    }
+}

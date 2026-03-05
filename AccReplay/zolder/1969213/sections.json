@@ -1,0 +1,47 @@
+[
+    {
+        "splineStart": 182.25984,
+        "splineEnd": 433.18802,
+        "description": "T1"
+    },
+    {
+        "splineStart": 486.9354,
+        "splineEnd": 721.98004,
+        "description": "T2"
+    },
+    {
+        "splineStart": 745.28394,
+        "splineEnd": 978.684,
+        "description": "T3"
+    },
+    {
+        "splineStart": 1034.0359,
+        "splineEnd": 1312.3591,
+        "description": "T4"
+    },
+    {
+        "splineStart": 1616.433,
+        "splineEnd": 1889.5822,
+        "description": "T5"
+    },
+    {
+        "splineStart": 2254.182,
+        "splineEnd": 2386.5452,
+        "description": "T7"
+    },
+    {
+        "splineStart": 2402.5889,
+        "splineEnd": 2695.3918,
+        "description": "T8"
+    },
+    {
+        "splineStart": 2932.041,
+        "splineEnd": 3138.2866,
+        "description": "T9"
+    },
+    {
+        "splineStart": 3511.6306,
+        "splineEnd": 3786.384,
+        "description": "T11"
+    }
+]
