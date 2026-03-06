@@ -1,3 +1,5 @@
+# Esse arquivo faz a classificação das curvas individualmente para cada piloto
+# Dessa forma, é levado em conta apenas as características individuais de cada piloto na sua volta
 import os
 import json
 import pandas as pd
